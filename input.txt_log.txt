@@ -1,0 +1,9 @@
+Customer1,300TL,cableTV
+Customer2,231TL,electricity
+
+All payments are completed.
+cableTV: 300TL
+electricity: 231TL
+gas: 0TL
+telecommunication: 0TL
+water: 0TL
